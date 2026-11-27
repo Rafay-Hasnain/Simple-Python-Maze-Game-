@@ -26,8 +26,8 @@ This was one of my first proper programming projects. I came back to it later to
 1. Install Python 3 from [python.org](https://www.python.org/downloads/) if you don't have it.
 2. Clone this repository and open the folder:
    ```
-   git clone <your-repo-url>
-   cd <your-repo-folder>
+   git clone https://github.com/Rafay-Hasnain/Python-Maze-Game.git
+   cd Python-Maze-Game
    ```
 3. Install the two packages the game needs:
    ```
