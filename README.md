@@ -71,3 +71,8 @@ A couple of things to know:
 - There is only one level
 - Enemies wander randomly instead of chasing you
 - Ideas for later: more levels, lives, a start menu and smarter enemies
+
+## Credits
+
+- Built while following a YouTube Python tutorial (I can't locate the original video). The sprites and sound effects came with that tutorial.
+- Bug fixes, the high score file handling, the quit logic, the documentation and the README are my own work.
